@@ -1,1 +1,13 @@
-�̳ǲ��֡��������顢���ﳵ������ҳ
+
+
+刘汪善
+  商城：     推荐       家饰     家纺     收纳     餐厨
+      ：recommend   decoration  spin    box      kitchen
+  订单信息
+  order-details
+  购物车 ：   购物车        删除购物车 
+         ：   cart       cart-detele
+  结算
+  balance
+  详情：     详情页        详情页-分享         详情页-加购物车
+      ： detalis-page details-page-share  details-page-cart
